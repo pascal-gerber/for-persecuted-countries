@@ -5,4 +5,4 @@ This is for persecuted countries, the app will show up as a calculator and will 
 
 The calculator default password is 1234= and it will unlock the app, and everytime you even close the app, it will go back to the calculator for minimal exposure
 
-Note the AraSVD is an arabic version
+Note the AraSVD is an arabic version, ChiUns is chinese, KorRV is korean, kjv and Mkjv are both english 
